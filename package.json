@@ -1,0 +1,10 @@
+{
+  "name": "json-server",
+  "main": "server.js",
+  "scripts": {
+    "database": "node server.js --watch"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
